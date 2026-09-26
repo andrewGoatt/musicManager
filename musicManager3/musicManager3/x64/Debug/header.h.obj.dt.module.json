@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "musicManager3\\x64\\Debug\\header.obj",
+            "outputs": [
+                "musicManager3\\x64\\Debug\\header.h.obj.dt.module.json",
+                "musicManager3\\x64\\Debug\\header.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

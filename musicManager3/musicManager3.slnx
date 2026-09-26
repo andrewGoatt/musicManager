@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="musicManager3.vcxproj" Id="7feeea43-9684-405c-bc04-30a21e182095" />
+</Solution>
